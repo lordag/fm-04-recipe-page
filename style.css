@@ -87,25 +87,25 @@ article p.description{
     padding: 0rem 0rem 1.5rem 0rem;
 }
 
-article div.preparation-info{
+article section.preparation__info{
     background-color: var(--rose-50);
     padding: 1.5rem 1.5rem 0.5rem 1.5rem;
     border-radius: 1rem;
 }
 
-article div.preparation-info strong.title{
+article section.preparation__info strong.title{
     color: var(--rose-800);
     font-size: 1.3rem;
 }
 
 
 
-article div.box{
+article section.box{
     padding: 0.5rem 0rem;
     border-bottom: 1px solid var(--stone-150);
 }
 
-article div.box.no-border{
+article section.box.no-border{
     border: none;
 }
 
